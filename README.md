@@ -3,7 +3,7 @@
 ![Forks](https://img.shields.io/github/forks/SHUcream00/MPI_Matrix_Transpose.svg)
 ![Stars](https://img.shields.io/github/stars/SHUcream00/MPI_Matrix_Transpose.svg)
 ![Watchers](https://img.shields.io/github/watchers/SHUcream00/MPI_Matrix_Transpose.svg)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][https://www.linkedin.com/in/joon-won-choi/]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <div align="center">
   <a href="https://github.com/SHUcream00/MPI_Matrix_Transpose">
@@ -109,4 +109,10 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/joon-won-choi
+[example_ss]: images/example.png
 
