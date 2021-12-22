@@ -50,7 +50,9 @@ This project utilizes [Message Passing Interface](https://en.wikipedia.org/wiki/
 ![Sample_screenshot][example_ss]
 
 There are many ways to build a distributed, scalable program to achieve high performance. 
-This project is built as demonstration of parallel programming model using [MSMPI](https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi)
+This project is built as demonstration of one of such parallel programming models using [MSMPI](https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi), to distribute mathematical operations on several threads to improve scalabilty, processing speed.
+
+This program can be further modified to comply with other requirements.
 
 With this program, you can:
 * Transpose your beautiful matrix elegantly with parallel process.
