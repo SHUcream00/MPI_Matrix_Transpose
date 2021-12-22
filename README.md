@@ -1,5 +1,5 @@
 # MPI_Matrix_Transpose
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SHUcream00&theme=blue-green)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 <div align="center">
   <a href="https://github.com/SHUcream00/MPI_Matrix_Transpose">
