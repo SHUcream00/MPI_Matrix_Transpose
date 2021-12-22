@@ -14,8 +14,7 @@
 
 </div>
 
-This project utilizes [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface) to do 
-
+This project utilizes [Message Passing Interface](https://en.wikipedia.org/wiki/Message_Passing_Interface) to create a distributed program that creates and outputs the transpose of the original matrix. There will be only one process with rank 0, that will read the file name with the input data, read from the file the values of n and m, read from the file the entire matrix, and will output the resulting matrix on the screen. All the other processes will receive portions of the matrix and contribute to creating the transposed matrix.
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -48,11 +47,9 @@ This project utilizes [Message Passing Interface](https://en.wikipedia.org/wiki/
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![Sample_screenshot][example_ss]
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
+There are many ways to 
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
 * You shouldn't be doing the same tasks over and over like creating a README from scratch
 * You should implement DRY principles to the rest of your life :smile:
@@ -110,9 +107,54 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- ROADMAP -->
+## Roadmap
+
+- [x] Implement MPI
+- [x] Finalize
+
+This project is final.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+This project is final and not being maintained. You can fork this repository and keep going on.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- CONTACT -->
+## Contact
+
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+
+I send my thanks to the authors of the following resources for helping me get this project get better.
+
+* [Othneil Drew's Readme Template](https://github.com/othneildrew/Best-README-Template)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/joon-won-choi
 [example_ss]: images/example.png
-
