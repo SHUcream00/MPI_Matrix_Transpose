@@ -53,7 +53,7 @@ There are many ways to build a distributed, scalable program to achieve high per
 This project is built as demonstration of parallel programming model using [MSMPI](https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi)
 
 With this program, you can:
-* Transpose your beautiful matrix with parallel process.
+* Transpose your beautiful matrix elegantly with parallel process.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
