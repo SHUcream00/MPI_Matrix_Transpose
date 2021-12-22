@@ -1,5 +1,8 @@
 # MPI_Matrix_Transpose
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Forks](https://img.shields.io/github/forks/SHUcream00/MPI_Matrix_Transpose.svg)
+![Stars](https://img.shields.io/github/stars/SHUcream00/MPI_Matrix_Transpose.svg)
+![Watchers](https://img.shields.io/github/watchers/SHUcream00/MPI_Matrix_Transpose.svg)
 
 <div align="center">
   <a href="https://github.com/SHUcream00/MPI_Matrix_Transpose">
