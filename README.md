@@ -49,14 +49,11 @@ This project utilizes [Message Passing Interface](https://en.wikipedia.org/wiki/
 
 ![Sample_screenshot][example_ss]
 
-There are many ways to 
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+There are many ways to build a distributed, scalable program to achieve high performance. 
+This project is built as demonstration of parallel programming model using [MSMPI](https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi)
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+With this program, you can:
+* Transpose your beautiful matrix with parallel process.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -64,9 +61,8 @@ Use the `BLANK_README.md` to get started.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [Python](https://www.python.org/)
+* [mpi4py](https://mpi4py.readthedocs.io/en/stable/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -75,13 +71,12 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is a simple code with only dependency being [mpi4py](https://mpi4py.readthedocs.io/en/stable/)
 
 ### Prerequisites
 
 MPI_Matrix_Transpose requires [mpi4py](https://mpi4py.readthedocs.io/en/stable/) library to run. 
-You can easily get the library through pip.
+You can easily install the library through pip.
 * mpi4py
   ```sh
   pip -install mpi4py
