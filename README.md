@@ -98,9 +98,8 @@ You can easily install the library through pip.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+![usage_gather][example_ss2]
+![usage_gather][example_ss3]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -155,3 +154,6 @@ I send my thanks to the authors of the following resources for helping me get th
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://www.linkedin.com/in/joon-won-choi
 [example_ss]: images/example.png
+[example_ss2]: images/MPI_Gather.gif
+[example_ss3]: images/MPI_Scatter.gif
+
